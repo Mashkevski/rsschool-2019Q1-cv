@@ -33,10 +33,10 @@ I am able to work hard and learn fast to achieve my goal.
 ## Education
 
 `2002-2005`
-__Brest College of Railway Transport, faculty of technological communication__
+__Brest College of Railway Transport__, faculty of technological communication
 
 `2018-2019`
-__Belorussian State University of Informatics and Radioelectronics, faculty Computer Systems and Networks (first year)__
+__Belorussian State University of Informatics and Radioelectronics__, faculty Computer Systems and Networks (first year)
 
 ### Courses
 
