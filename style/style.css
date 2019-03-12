@@ -1,0 +1,17 @@
+body {
+  width: 980px;
+  margin: 0 auto;
+}
+
+section:nth-of-type(even) {
+  background-color: #faf7e4;
+}
+
+section:nth-of-type(odd) {
+  background-color: #e7e6e1;
+}
+
+.tel,
+.email {
+  display: block;
+}
