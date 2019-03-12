@@ -14,4 +14,6 @@ section:nth-of-type(odd) {
 .tel,
 .email {
   display: block;
+  text-decoration: none;
 }
+
